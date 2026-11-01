@@ -1,0 +1,6 @@
+{
+ "schemaVersion":1,"id":"homestead_player_animations","version":"${version}",
+ "name":"Homestead Player Animations","description":"Lightweight additive third-person player motion. Experimental.",
+ "environment":"client","mixins":["homestead-player-animations.mixins.json"],
+ "depends":{"fabricloader":">=0.14.0","minecraft":"1.20.1","java":">=17"}
+}
